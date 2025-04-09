@@ -1,2 +1,5 @@
 # Fraud-Detection-Transactions
-This is a mini-project about detecting fraudulent transactions through using data preprocessing and EDA.
+This mini-project is about detecting fraudulent transactions using data preprocessing and EDA.
+
+Dataset:
+[Fraud Detection](https://www.kaggle.com/datasets/samayashar/fraud-detection-transactions-dataset)
