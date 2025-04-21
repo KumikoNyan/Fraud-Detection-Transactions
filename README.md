@@ -23,3 +23,4 @@ Metrics:
 3. Precision Score
 4. Accuracy Score
 5. Recall Score
+6. Confusion Matrix
